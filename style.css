@@ -1,10 +1,13 @@
 /* Put your CSS rules here: */
 
+.picture_container {
+	background-color: black;
+}
+
 .picture_container img {
 	border: 10px blue solid;
 	padding-top: 10px;
 	padding-right: 10px;
-	background-color: black;
 }
 
 .bold {
