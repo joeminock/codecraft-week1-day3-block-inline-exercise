@@ -1,0 +1,36 @@
+/* Put your CSS rules here: */
+
+.picture_container img {
+	border: 10px blue solid;
+	padding-top: 10px;
+	padding-right: 10px;
+	background-color: black;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.full-width {
+	
+	background-color: white;
+	height: 10px;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	width: 100%;
+	
+}
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+body{font-family:sans-serif;}
+.content{width:980px;padding:10px;}
